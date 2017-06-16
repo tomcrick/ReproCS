@@ -1,8 +1,9 @@
 # ReproCS
-A crowd-sourced community paper on the challenges facing reproducibility across computer science.
+A crowd-sourced community paper on the challenges facing reproducibility across computer science. We hope to publish this in an academic journal.
 
 # Contributing to this Paper
-We welcome any and all contributions to this paper while it is being drafted, and this can include you becoming an author of this paper. 
+We welcome any and all contributions to this paper while it is being drafted, and this can include you becoming an author of this paper. The more the merrier!
+
 If you wish you can use any of the methods below in increasing levels of contribution:
 1. Comment on a github issue or create your own issue to comment
 2. Make your own branch and make a minor change (e.g. fixing typos or grammar), and submit it as a pull request. If you do this then please feel free to add your own name to the acknowledgements section of the paper.
